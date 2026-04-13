@@ -321,6 +321,13 @@ go run ./cmd/server
 
 ---
 
+### Optional: tidy Go modules
+
+If you run the project locally without Docker and want to sync dependencies, you can run:
+
+```bash
+go mod tidy
+
 ## Environment variables
 
 ```env
