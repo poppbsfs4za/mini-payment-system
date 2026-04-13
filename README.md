@@ -327,6 +327,9 @@ If you run the project locally without Docker and want to sync dependencies, you
 
 ```bash
 go mod tidy
+```
+
+---
 
 ## Environment variables
 
